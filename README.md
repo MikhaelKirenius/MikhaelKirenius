@@ -1,5 +1,15 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" />
+</p>
+
+<h1 align="center">Hi there, I'm Mikhael 👋</h1>
+
+---
+
 # 💫 About Me:
+<p align="center">
 🔭 I’m currently working on<br>Building data-driven solutions using Machine Learning, Deep Learning, and Data Visualization, focusing on predictive analytics and AI-powered tools for businesses.<br><br>👯 I’m looking to collaborate on<br>Open-source Machine Learning projects, AI applications, and data analysis projects that create real-world impact.<br><br>🤝 I’m looking for help with<br>Exploring AI product development, best practices for deploying ML models, and MLOps pipelines.<br><br>🌱 I’m currently learning<br>Advanced Machine Learning & AI concepts<br><br>Neural Networks (CNN, RNN) and Natural Language Processing<br><br>Data Engineering and Model Deployment<br><br>💬 Ask me about<br>Data Science, Machine Learning, Data Visualization, and building end-to-end AI solutions.<br><br>⚡ Fun fact<br>I started my journey as a Full-Stack Web Developer, and now I’m diving deep into AI and Machine Learning to build intelligent solutions.<br><br>
+</p>
 
 
 ## 🌐 Socials:
